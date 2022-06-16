@@ -34,6 +34,7 @@ $ cd firebase-web
 ```bash
 $ npm install -g firebase-tools@9.23.1
 $ firebase login
+$ firebase init
 $ firebase serve
 
 === Serving from '---'...
@@ -41,6 +42,13 @@ $ firebase serve
 i  hosting: Serving hosting files from: public,src
 ✔  hosting: Local server: http://localhost:5000
 ```
+
+## Trouble shooting
+
+### firebase init 입력시 오류 다음과 같은 문제가 있을 수 있습니다.
+- firebase login 누락
+- firebase console 홈페이지에서 프로젝트 미생성
+- firebase console 홈페이지에서 Authentication, Firestore, Storage 시작하기 누락
 
 ## 웹 동작 설명
 ![스크린샷, 2022-06-16 23-50-42](https://user-images.githubusercontent.com/99124279/174098814-565ab1cb-0500-47ba-803a-0f774f3def58.png)
