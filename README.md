@@ -38,3 +38,40 @@ $ firebase serve
 i  hosting: Serving hosting files from: public,src
 ✔  hosting: Local server: http://localhost:5000
 ```
+
+## 웹 동작 설명
+![스크린샷, 2022-06-16 23-50-42](https://user-images.githubusercontent.com/99124279/174098814-565ab1cb-0500-47ba-803a-0f774f3def58.png)
+
+
+### 회원가입 > 로그인 > 상품등록 > 로그아웃
+
+### 회원가입
+
+![스크린샷, 2022-06-16 23-50-54](https://user-images.githubusercontent.com/99124279/174098646-6ffada57-154a-4a30-a706-26660550e5bb.png) 을 누르고 이름, 이메일, 비밀번호(6자 이상)을 입력후 가입합니다.
+
+![스크린샷, 2022-06-16 23-52-09](https://user-images.githubusercontent.com/99124279/174099090-dfb28f38-04fd-4ea6-a886-bab9914f5b9e.png)
+
+가입이 완료되면 자동으로 로그인 페이지로 이동됩니다.
+
+### 로그인
+
+![스크린샷, 2022-06-16 23-52-28](https://user-images.githubusercontent.com/99124279/174099199-f5c60540-d8a1-467a-b273-eaa3b7e85216.png) 가입시 입력했던 이메일과 비밀번호를 입력 후 로그인합니다.
+
+![스크린샷, 2022-06-16 23-52-41](https://user-images.githubusercontent.com/99124279/174099340-2f9d0b7e-19da-4bcc-9acd-708aaf6ba34c.png)
+
+### 상품 등록
+
+![스크린샷, 2022-06-16 23-52-52](https://user-images.githubusercontent.com/99124279/174099548-8f9c3c41-0ea7-45a8-aa83-c9fbb6e1a704.png) 원하는 상품을 등록할 수 있습니다.
+
+![스크린샷, 2022-06-16 23-53-48](https://user-images.githubusercontent.com/99124279/174099585-b7520374-a357-47ca-a478-b6f995e28f77.png)
+
+![스크린샷, 2022-06-16 23-54-11](https://user-images.githubusercontent.com/99124279/174099846-56f357bf-f2d8-4ce0-93f7-593e4e9d04a7.png)
+
+### 로그아웃
+
+![스크린샷, 2022-06-17 00-01-59](https://user-images.githubusercontent.com/99124279/174100223-190f0ce1-fec1-479e-b5fd-d5e15022bd11.png)
+
+
+![스크린샷, 2022-06-16 23-54-26](https://user-images.githubusercontent.com/99124279/174100139-52e8f7e4-83f3-4550-b2c2-7154eb6bd246.png)을 누르면 다시 로그인과 회원가입 NavBar가 활성화 됩니다.
+
+![스크린샷, 2022-06-16 23-50-42](https://user-images.githubusercontent.com/99124279/174098814-565ab1cb-0500-47ba-803a-0f774f3def58.png)
